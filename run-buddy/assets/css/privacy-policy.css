@@ -1,5 +1,5 @@
 
-  .section page-title {
+  .hero h2 {
       color: #fce138;
       display: inline-block;
       border-bottom: 4px solid #fce138;
@@ -7,3 +7,26 @@
       font-weight: 42px;
       font-style: italic;
   }
+  .secondary-content {
+      width: 80%;
+      margin: auto;
+  }
+  .article {
+      color: #024e76;
+  }
+  .secondary-content h3 {
+      font-size: 25px;
+      margin: 0 20px 0 20px;
+  }
+.secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 20px 0 20px;
+}
+.secondary-content ul {
+    margin: 20px 15px 20px 15px;
+}
+.secondary-content li {
+    color: #39a6b2;
+    margin: 0 10px 0 10px;
+}
