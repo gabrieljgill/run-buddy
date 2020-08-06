@@ -12,4 +12,4 @@ https://lernantino.github.io/run-buddy/
 
 Made with ❤️ by Gabriel Gill
 
-### ©️2019 Run Buddy, Inc 
+# ©️2019 Run Buddy, Inc 
